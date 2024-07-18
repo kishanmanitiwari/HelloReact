@@ -3,15 +3,14 @@ React - JSX
 1) What is JSX / Babel
 2) Internal working of JSX
 3) Javascript EXPRESSION (Mode) in ReactJS
-3) Rules for JSX 
+3) Rules for JSX *-> EMET - Config
 4) Styling JSX - (Inline/External)
-
-
 
 React- Components:
 
 5) React Element
 6) Components - Class/Functional
 7) Import and Export Modules
+*) Vite Congig
 8) Practice
 *Bonus - Strict Mode
