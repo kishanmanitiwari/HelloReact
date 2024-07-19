@@ -6,14 +6,16 @@ import "./App.css";
 
 // const jsxHeading = (<h1>Hello React</h1>)
 
-// const jsxParent = (
-//   <div id="parent">
-//     <div className="children"  >
-//       <h1 fontSize="50">Parent</h1>
-//       <h1>React!</h1>
-//     </div>
-//   </div>
-// );
+const JsxParent = (props) => {
+  return (
+    <div id="parent">
+      <div className="children">
+        <h1>Parent</h1>
+        <h1>{props.name}</h1>
+      </div>
+    </div>
+  );
+};
 
 const jsxHead = <h1>Hello</h1>;
 
@@ -27,4 +29,4 @@ const cssObject = {
 };
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
-root.render(<Parent />);
+root.render(<JsxParent  name="kishan" />);

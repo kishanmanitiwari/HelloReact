@@ -10,7 +10,11 @@ React- Components:
 
 5) React Element
 6) Components - Class/Functional
-7) Import and Export Modules
-*) Vite Congig
+7) Import and Export Modules 
+    *Bonus - Strict Mode
+    * Vite Config/Repli.it
 8) Practice
-*Bonus - Strict Mode
+
+-Kepper Project
+- React Props
+- Props Destrcuturing
