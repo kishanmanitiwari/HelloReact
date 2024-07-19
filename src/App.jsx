@@ -11,6 +11,8 @@ export default function App() {
       <Note title="Rahul's Notes" content="This is second Note" />
       <Note title="Ankit's Notes" content="This is second Note" />
       <Note title="Ananya's Notes" content="This is your Notes" />
+      <Note title="Sujata's Notes" content="This is your Notes" />
+
       <Footer />
     </main>
   );
